@@ -3,7 +3,7 @@ https://brat.nlplab.org
 
 1) First, build an image: 
     ```sh
-    $ docker build --build-arg user_name=USERNAME --build-arg password=PASSWORD --build-arg admin_email=EMAIL -t brat-app
+    $ docker build --build-arg user_name=USERNAME --build-arg password=PASSWORD --build-arg admin_email=EMAIL -t brat-app .
     ```
 
 2) To start it use the following command:
