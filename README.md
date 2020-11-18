@@ -12,4 +12,4 @@ https://brat.nlplab.org
     ``` 
     (use flag ```-d``` additionaly to run it in background)
 
-3) Use website 127.0.0.1:<used port> from console (if you run in foreground) or print it manually in any browser
+3) Use website 127.0.0.1:```used port``` from console (if you run in foreground) or print it manually in any browser
