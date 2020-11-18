@@ -11,6 +11,5 @@ https://brat.nlplab.org
     $ docker run -p 8001:8001 brat-app
     ``` 
     (use flag ```-d``` additionaly to run it in background)
-to run in background
 
 3) Use website 127.0.0.1:<used port> from console (if you run in foreground) or print it manually in any browser
